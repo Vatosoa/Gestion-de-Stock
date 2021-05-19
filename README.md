@@ -1,2 +1,2 @@
 # Gestion-de-Stock
-Gestion de stock en utilisant java swing et mysql 
+Gestion de stock en utilisant java swing et mysql avec netbeans
